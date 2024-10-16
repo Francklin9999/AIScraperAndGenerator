@@ -40,7 +40,7 @@ To generate images, you will need to install flux1schnell. Refer to the followin
 ```
 Note: The flux repository is quite large, so the download and installation may take some time.
 
-Start the server
+Run the program
 
 ```bash
   python main.py
